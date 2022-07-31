@@ -1,0 +1,8 @@
+[book]
+title = "네트워크 국가 The Network State"
+authors = ["발라지 스리니바산 Balaji Srinivasan"]
+description = "How to Start a New Country"
+language = "en"
+multilingual = true
+src = "src"
+
