@@ -36,7 +36,5 @@
 ## 부록
 
 - [부록](./appendix/appendix.md)
-    - [감사의 말](./appendix/acknowledgments.md)
+    - [감사의 말](./appendix/acknowledegments.md)
     - [1729에 대해](./appendix/about1729.md)
-    - [미주](./appendix/footnotes.md)
-    - [역주](./appendix/translatorfootnotes.md)
