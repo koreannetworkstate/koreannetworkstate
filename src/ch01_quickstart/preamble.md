@@ -9,7 +9,7 @@
 
 우리는 [한 문장](./one_sentence.md), [한 그림](./one_image.md), [일천 단어](./thousand_words.md), 그리고 [한 에세이](./one_essay.md)로 요약된 스타트업 사회와 네트워크 국가의 개념을 준비했다. 참을성이 없는 편이라면 위의 링크들을 클릭하라. 물론 온전한 경험을 위해서는 한번에 한 페이지씩 읽을 수 있을 것이다.
 
-페이지들에 대해 말하자면, 이 책의 모든 섹션은 온라인이며 개별 웹페이지로 공유할 수 있다. 예를 들어, 이 섹션의 주소는 [koreannetworkstate.com/ch01_quickstart/preamble](koreannetworkstate.com/ch01_quickstart/preamble)이다. 이를 통해 이 책의 어느 부분이든 토의를 위해 직접 링크[^1]를 거는 것이 가능하다. 뿐만 아니라, 시간 속에 동결된 일반적인 책과 다르게, 이 책은 지속적으로 업데이트되는 북앱(bookapp)으로 생각할 수 있다. 최신 버전을 [온라인](koreannetworkstate.com)으로 ([영어 원본](thenetworkstate.com)) 볼 수 있을 뿐 아니라, (영어 원본의 경우) 이 [설명](thenetworkstate.com/kindle.gif)을 따라 킨들에서 최신 버전을 받을 수도 있다. 
+페이지들에 대해 말하자면, 이 책의 모든 섹션은 온라인이며 개별 웹페이지로 공유할 수 있다. 예를 들어, 이 섹션의 주소는 [https://koreannetworkstate.com/ch01_quickstart/preamble.html](https://koreannetworkstate.com/ch01_quickstart/preamble.html)이다. 이를 통해 이 책의 어느 부분이든 토의를 위해 직접 링크[^1]를 거는 것이 가능하다. 뿐만 아니라, 시간 속에 동결된 일반적인 책과 다르게, 이 책은 지속적으로 업데이트되는 북앱(bookapp)으로 생각할 수 있다. 최신 버전을 [온라인](koreannetworkstate.com)으로 ([영어 원본](thenetworkstate.com)) 볼 수 있을 뿐 아니라, (영어 원본의 경우) 이 [설명](thenetworkstate.com/kindle.gif)을 따라 킨들에서 최신 버전을 받을 수도 있다. 
 
 이 책을 읽을 때, 이 책을 선언문(manifesto)보다는 도구상자로 여겨주기 바란다. 여기서 무언가 얻기 위해 이 책의 모든 것에 동의할 필요가 없다. 그래서 우리는 이 책을 모듈 형태(modular form)으로 구성했다. 제1장은 아이디어들에 대한 개관이다. 제2장, 3장, 4장은 가까운 장래에 대한 예측, 곧 미국의 무정부 사태와 중국의 통제 사회라는 문제로 이어지는 분석을 제시한다. 그리고 제5장은 자유롭지 않은(illiberal) 세상에서 자유주의적(liberal) 가치들을 지키기 위한 해법으로 스타트업 사회와 네트워크 국가를 제시한다.
 
