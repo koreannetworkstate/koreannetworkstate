@@ -1,4 +1,4 @@
-# 일천 단어로 읽는 네트워크 국가
+# 일천 단어로 읽는 네트워크 국가🔗
 
 [원문](https://thenetworkstate.com/the-network-state-in-one-thousand-words)
 

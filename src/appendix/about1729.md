@@ -1,4 +1,4 @@
-# 1729에 대해
+# 1729에 대해🔗
 
 [원문](https://thenetworkstate.com/about-1729)
 

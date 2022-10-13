@@ -1,4 +1,4 @@
-# 한 에세이로 읽는 네트워크 국가
+# 한 에세이로 읽는 네트워크 국가🔗
 
 [원문](https://thenetworkstate.com/the-network-state-in-one-essay)
 
@@ -14,36 +14,36 @@
 
 그러나 아마도 우리는 이 상황을 바꿀 수 있을 것이다.
 
-### **[어떻게 새로운 국가를 시작하는가🔗](#how-to-start-a-new-country)**
+### 어떻게 새로운 국가를 시작하는가🔗
 
 새로운 국가를 시작하기 위한 적어도 여섯 가지의 방법이 있다; 세가지는 전통적이고, 다른 세가지는 비전통적이다. 우리는 이 여섯 가지 방법 모두가 일곱번째 방법에 비해 열등하다는 것을 보여주기 위한 목적에서, 이 여섯 가지 방법을 먼저 소개하고자 한다.
 
-#### **[1. 선거🔗](#1-election)**
+#### 1. 선거🔗
 
 새로운 국가를 시작하기 위한 가장 전통적인 방법은 선거에서 충분한 권력을 얻어 (a) 기성 국가의 법령을 [개정](https://en.wikipedia.org/wiki/New_Deal)하거나 (b) 국제 사회의 승인을 받아 [완전히](https://en.wikipedia.org/wiki/1999_East_Timorese_independence_referendum) [새로운](https://en.wikipedia.org/wiki/2011_South_Sudanese_independence_referendum) 국가를 깍아 내는 것이다. 이것은 가장 널리 논의되는 경로이고, 가장 붐비는 경로이다. 아마도 [지나치게 붐비는](https://en.wikipedia.org/wiki/Mimetic_theory) 경로일 것이다.
 
-#### **[2. 혁명🔗](#2-revolution)**
+#### 2. 혁명🔗
 
 두번째로 자명한 방법은 [정치적](https://www.history.com/this-day-in-history/ussr-established) [혁명](https://en.wikipedia.org/wiki/French_Revolution)이다. 우리는 이 방법을 권하지 않는다. 특히 결정적인 선거들은 종종 [혁명](http://pressbooks-dev.oer.hawaii.edu/ushistory/chapter/the-reagan-revolution/)이라고 불리지만, 보통 혁명은 유혈 사태를 포함한다. 혁명은 드물지만, 혁명이 새로운 정부를 의미한다는 것은 모두가 알고 있다.
 
-#### **[3. 전쟁🔗](#3-war)**
+#### 3. 전쟁🔗
 
 새로운 국가를 세우기 위한 세번째 전통적인 방법은 전쟁에 승리하는 것이다. 우리는 이 방법도 권하지 않는다. 물론 전쟁은 다른 두 전통적 방법들과 무관하지 않다. 실재로 [선거](https://en.wikipedia.org/wiki/March_1933_German_federal_election)와 [혁명](https://en.wikipedia.org/wiki/Russian_Revolution) 모두 [새로운](https://en.wikipedia.org/wiki/Post-occupation_Japan) [정치체(政治體; polity)](https://en.wikipedia.org/wiki/Aftermath_of_World_War_II)를 만들어 내는 [전쟁](https://en.wikipedia.org/wiki/World_War_II)으로 이어질 수 있다. 혁명과 마찬가지로 전쟁 역시 드물고 바람직하지 않지만, 국경을 다시 그리는 한 방법이다.
 
-#### **[4. 마이크로네이션(micronation)🔗](#4-micronations)**
+#### 4. 마이크로네이션(micronation)🔗
 
 이제 우리는 비전통적인 방법에 도달했다. 비전통적 접근중 가장 명백한 방법은 – 그리고 "새로운 국가 건설"이라는 개념을 들었을 때 대부분의 사람들이 생각하는 방법은 – 한 괴짜가 [해안 플랫폼](https://en.wikipedia.org/wiki/Principality_of_Sealand)이나 분쟁 중인 [흙 덩어리](https://en.wikipedia.org/wiki/Liberland) 위에 깃발을 꽂고 스스로를 무인지상(無人之上)의 왕(king of nothing)으로 선포하는 것이다. 선거의 문제가 너무 많은 사람들이 여기에 신경을 쓴다는 것이라면, 소위 [마이크로네이션](https://medium.com/@sy.park.rk/escaping-the-current-system-5f93cfb07e1a)의 문제는 너무 적은 사람들이 여기에 신경을 쓴다는 것이다. 화폐와 마찬가지로 국가 역시 본질적으로 사회적인 것이기 때문에, 허허벌판에 있는 소수의 사람들은 군대를 조직할 수도, 법률을 집행할 수도, 다른 국가들에게 승인을 받을 수도 없을것이다. 더욱이, 사람들이 자기 뒷마당에서 무해하게[^5] [가짜 국가](https://en.wikipedia.org/wiki/List_of_micronations)를 만들고 [역할 놀이(LARP)](https://en.wikipedia.org/wiki/Live_action_role-playing_game)를 하는것은 기존 국가가 용납하겠지만, 주권에 대한 실질적인 위협에는 진짜 총칼로 대응할 것이다. 그것이 [포클랜드](https://en.wikipedia.org/wiki/Falklands_War)이든 [사할린](https://en.wikipedia.org/wiki/Sakhalin#Division_along_50th_parallel)이든 간에.
 
 
-#### **[5. 시스테딩(seasteading)🔗](#5-seasteading)**
+#### 5. 시스테딩(seasteading)🔗
 
 여기서부터 일이 흥미로워지기 시작한다. 패트리 프리드만(Patri Friedman)이 구상하고 피터 틸(Peter Thiel)이 후원한 [시스테딩(seasteading)](https://www.seasteading.org/)은 기본적으로 크루즈선들이 [존재한다는](https://edition.cnn.com/travel/article/iona-cruise-ship-assembly-video/index.html) 관찰에서 시작한다. 그리고 우리가 크루즈선을 타고 한번에 해상에 몇주간 머물던 것으로부터, 공해상의 반영구적 거주지로 (물론 빈번한 입항과 함께) 옮아갈 수 있는지를 묻는다. 만약 크루즈선의 비용이 [하락한다면](https://www.businesstimes.com.sg/transport/the-messy-booming-business-of-recycling-cruise-ships), 이 접근법의 실현 가능성은 더 높아질 것이다. 하지만 현재도 [일년 내내](https://www.cruisecritic.com.au/articles.cfm?ID=5041&stay=1&posfrom=1) 크루즈선에 사는 사람들이 있음에도, 우리는 아직 규모 있는 실례를 보지 못했다.[^6]
 
-#### **[6. 우주(space)🔗](#6-space)**
+#### 6. 우주(space)🔗
 
 아마도 새로운 국가를 시작하는 경로 중 가장 선망을 얻는 것은, 다른 행성들을 식민지로 만든다는 아이디어일 것이다. 시스테딩이나 마이크로네이션과 달리, 우주 탐사는 정부 차원에서 시작되고 많은 영화와 TV 프로그램에서 미화되어 더 높은 사회적 수용도를 누리고 있다. 이 경로는 보통 완전히 미친 생각이라기 보다는, 한시적으로는 기술적으로 실현 불가능한 것으로 여겨진다. 일론 머스크(Elon Musk)의 스페이스X(SpaceX)는 화성에 새로운 국가를 시작하기 위한 물류소요를 심각하게 [고려하는](https://www.reddit.com/r/Starlink/comments/jjc270/found_a_gem_in_the_starlink_tos_the_parties/) 한 기업이다.
 
-#### **[7. 네트워크 국가(Network State)🔗](#7-network_states)**
+#### 7. 네트워크 국가(Network State)🔗
 
 드디어 우리가 가장 선호하는 방법에 도달했다: 네트워크 국가. 우리의 아이디어는 클라우드를 먼저 진행하고, 영토는 마지막이라는 것이다. 물리적 영토에서 시작하기보다, 우리는 디지털 커뮤니티로 시작한다. 우리는 [스타트업 사회](https://thenetworkstate.com/on-network-states#startup-societies)를 창조하고, 이것을 [네트워크 조합](https://thenetworkstate.com/network-union)으로 조직하고, 네트워크 군도의 물리적 노드들을 크라우드펀드하고, 그리고, 때가 찼을 때, 마침내 진정한 네트워크 **국가**가 되기 위해 외교적 승인을 협상한다. 우리는 오픈소스 프로젝트로 배아적 상태의 국가(embryonic state)를 건설하고, 우리의 내부 경제를 원격 근무를 중심으로 조직하고, 얼굴을 맞댄 상황에서 기대할 수 있는 시민의식(civility)을 가꾸고, [VR(virtual reality)에서 건축](https://thewild.com/blog/architect-getting-started-with-vr)을 시뮬레이션하고, 우리의 가치를 반영하는 예술과 문학을 창조한다.
 
@@ -53,7 +53,7 @@
 
 이제, 대사관들과 국가들에 대한 이 모든 이야기들과 함께, 혹자는 앞서 언급한 마이크로네이션과 마찬가지로 네트워크 국가 역시 하나의 [역할놀이(LARP)](https://en.wikipedia.org/wiki/Live_action_role-playing_game)에 불과하다고 주장할지 모른다. 그러나 마이크로네이션과 다르게, 네트워크 국가들은 ***규모있는(scaled)*** 역할놀이(LARP)가 되도록 설계되어 있다. 한 상상력이 많은 사람들에 의해 동시에 실천되고 준수될때, 그 상상력이 보여주는 위업이자 묘기인 것이다. 그리고 이러한 공유된 역할놀이(LARP)가 얼마나 [강력](https://bitcoin.zorinaq.com/price/)할 수 있는지는, 지난 십년간 암호화폐들의 경험이 우리에게 보여주고 있다.
 
-### **[최소한으로 필요한 혁신(minimum necessary innovation)🔗](#minimum-necessary-innovation)**
+### 최소한으로 필요한 혁신(minimum necessary innovation)🔗
 
 잠시 멈춰 요약해보자. 일곱번째 방법(네트워크 국가)과 이전의 여섯가지 방법(선거, 혁명, 전쟁, 마이크로네이션, 시스테딩, 그리고 우주) 사이의 주요 차이점은, 일곱번째 방법이 현실성(practicality)과 비현실성(impracticality)사이에 걸쳐 있다는 것이다.
 
@@ -61,7 +61,7 @@
 
 다시 말해, 네트워크 국가는 미래의 물리적 혁신을 기다리는 대신, 우리가 이미 가지고 있는 가장 강력한 현존하는 기술 스택, 즉 인터넷을 중심으로 구축된 일련의 기술들을 사용하여 정치적 장애물들을 우회한다.
 
-### **[무엇이 새로운 국가로 간주되는가?(what-counts-as-a-new-country)🔗](#what-counts-as-a-new-country)**
+### 무엇이 새로운 국가로 간주되는가?(what-counts-as-a-new-country)🔗
 
 이 일곱가지 방법들을 개괄한 시점에서, 주의 깊은 독자는 우리가 무엇이 "새로운 국가"인지 정의하면서 다소 급하고 허술하게 지나갔다는 점을 알아챌 것이다.
 
@@ -73,7 +73,7 @@
 
 이러한 수치적 지표와 사회적 지표의 조합은 암호화폐의 등장과 아주 비슷하다. 처음에는 무시당했고, 이후에는 명백한 실패로 [조롱당했지만](https://99bitcoins.com/category/bitcoin-obituaries/2011/), 발명된지 5년도 안되어 비트코인은 10억 달러 시가총액을 달성했고(***수치적*** 성공), 곧이어 [CNBC](https://news.ycombinator.com/item?id=5539881)와 [블룸버그](https://techcrunch.com/2013/08/09/bitcoin-ticker-available-on-bloomberg-terminal/)에 우량주들과 함께 상장되었다(***사회적*** 인정의 한 형태). 각 단계에서 비트코인은 자체적으로 수치적 상승을 유지할 수 있었고, 이에 따라 더 큰 사회적 인정을 얻을 수 있었다. 2020년에 이르러 비트코인은 [중국인민은행](https://www.bbc.com/news/business-54261382), [IMF](https://www.cnbc.com/2019/04/11/cryptocurrencies-fintech-clearly-shaking-the-system-imfs-lagarde.html), [골드만삭스](https://www.cnbc.com/2020/08/06/goldman-names-new-head-of-digital-assets-in-bet-that-blockchain-is-the-future-of-financial-markets.html), [JP모건](https://fortune.com/2020/10/26/jp-morgan-chase-bitcoin-predictions-analyst-jpm-cryptocurrency/), 그리고 [세계은행](https://www.coindesk.com/imf-world-bank-g7-countries-to-create-central-bank-digital-currency-rules)의 궤적을 바꿨다. 2021년, 비트코인은 주권 국가인 엘살바도르에서 [법정 통화(legal tender)](https://twitter.com/nayibbukele/status/1401327906178191366)가 되었다. 그리고 2022년 중반, 중앙 아프리카 공화국이 엘살바도르를 따랐고, [파나마](https://cointelegraph.com/news/panama-s-president-says-he-won-t-sign-crypto-bill-into-law-at-this-moment)를 포함한 [십수개의 국가들](https://twitter.com/nayibbukele/status/1526029996787216387)도 비트코인을 법정 통화로 고려하고 있다. 
 
-### **[대부분의 국가들은 작은 국가들이다🔗](#most-countries-are-small-countries)**
+### 대부분의 국가들은 작은 국가들이다🔗
 
 화폐가 수치적 측면과 사회적 측면 모두를 가지기 때문에 암호화폐는 이러한 수준에 도달할 수 있었다.[^7] 사회적 찬사가 뒤따르기도 전에 수치들(numbers)은 쌓일 수 있다. 일단 비트코인이 쉽게 위조되거나 해킹될 수 없다는 점이 입증되자, 전세계의 [수백만](https://cointelegraph.com/news/100m-people-worldwide-now-use-crypto-based-assets-says-cambridge-study) 암호화폐 보유자들이 공유했던 믿음은 BTC를 제로에서 수십억 달러의 시가 총액으로 만드는 데, 그리고 그로부터 BTC를 모든 블룸버그 터미널과 거래소에 상장시키기에 충분했다. 이런 종류의 사회적 견인은 더 많은 수치적 견인을 위한 길을 열었고, 선순환이 뒤따랐다.
 
